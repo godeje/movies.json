@@ -1,11 +1,11 @@
 {
   "movies": [
     {
-      "id": "test",
-      "title": "Test DoodStream",
-      "videoUrl": "https://dood.yt/f/eg4esp9qzx",
-      "year": 2024,
-      "genres": ["Prueba"],
+      "id": "demo",
+      "title": "Demo Sintel",
+      "videoUrl": "https://test-streams.mux.dev/test_001/sintel/master.m3u8",
+      "year": 2010,
+      "genres": ["Demo"],
       "poster": ""
     },
     {
