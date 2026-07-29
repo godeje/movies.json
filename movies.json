@@ -1,28 +1,28 @@
 {
-  "movies": [
-    {
-      "id": "demo",
-      "title": "Demo Sintel",
-      "videoUrl": "https://test-streams.mux.dev/test_001/sintel/master.m3u8",
-      "year": 2010,
-      "genres": ["Demo"],
-      "poster": ""
-    },
-    {
-      "id": "1",
-      "title": "Avatar",
-      "videoUrl": "https://doodstream.com/e/abc123",
-      "year": 2009,
-      "genres": ["Acción", "Ciencia ficción"],
-      "poster": "https://image.tmdb.org/t/p/w500/..."
-    },
-    {
-      "id": "2",
-      "title": "Titanic",
-      "videoUrl": "https://doodstream.com/e/xyz789",
-      "year": 1997,
-      "genres": ["Drama", "Romance"],
-      "poster": "https://image.tmdb.org/t/p/w500/..."
-    }
-  ]
+"movies": [
+{
+"id": "demo",
+"title": "Demo Mux",
+"videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+"year": 2024,
+"genres": ["Demo"],
+"poster": ""
+},
+{
+"id": "1",
+"title": "Avatar",
+"videoUrl": "https://doodstream.com/e/abc123",
+"year": 2009,
+"genres": ["Acción", "Ciencia ficción"],
+"poster": ""
+},
+{
+"id": "2",
+"title": "Titanic",
+"videoUrl": "https://doodstream.com/e/xyz789",
+"year": 1997,
+"genres": ["Drama", "Romance"],
+"poster": ""
+}
+]
 }
